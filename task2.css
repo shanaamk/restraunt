@@ -1,0 +1,79 @@
+.heading{
+    -webkit-text-fill-color: black;
+    margin-top:-400px;
+    margin-left:15px ;
+}
+.para1{
+    -webkit-text-fill-color: black;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+.hyper{
+    margin-top:200px;
+    margin-left:15px;
+    font-size:25px;
+  }
+.green{
+    background-color:greenyellow;
+    height: 40px;
+    width: 30rem;
+    margin-top: 8px;
+}
+.coff1{
+    margin-top: -39px;
+    margin-left: 28px;
+}
+.menu{
+    margin-top:-390px;
+    margin-left:600px;
+}
+.coffe2{
+    margin-left: 950px;
+    margin-top: -100px;
+    margin-right: 10px;
+}
+.cookinghead{
+    text-decoration-line: overline; 
+    text-decoration-color: gold;
+    -webkit-text-fill-color: gold;
+    margin-top:-725px;
+    margin-left:600px;
+  }
+  .paratwo{
+    text-decoration: solid;
+    -webkit-text-fill-color:white;
+    margin-top:20px;
+    margin-left:400px;
+    font-size:17px;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  .card1{
+    margin-left: 100px;
+    margin-top:92px;
+    opacity: 0.2;
+    text-align: center;
+    font-style: italic;
+  }
+  .card2{
+    margin-left:600px;
+    margin-top:-545px;
+    opacity: 0.5;
+    -webkit-text-fill-color:gold;
+    text-align: center;
+    font-style: italic;
+    font-size:17px;
+  }
+  .card3{
+    margin-left:1100px;
+    margin-top:-550px;
+    text-align: center;
+    font-style: italic;
+    opacity: 0.4;
+    background-color: gold;
+
+  }
+
+
